@@ -1,1 +1,1 @@
-# -qr-app
+#qr-app
